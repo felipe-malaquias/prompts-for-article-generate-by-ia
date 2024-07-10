@@ -12,13 +12,11 @@
 
 -------
 
-<p align="center">
-  <a href="https://web.dio.me/articles/entendendo-try-except-else-e-finally-em-python?back=%2Farticles&page=1&order=oldest" alt="Entendendo try, except, else e finally em Python"  
-    <img 
-      src=".github/assets/preview.png"
-      width="400"  
-    />
-  </a>
+<p align="center">  
+  <img 
+    src=".github/assets/preview.png"
+    width="400"  
+  />
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
