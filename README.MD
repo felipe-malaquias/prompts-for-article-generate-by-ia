@@ -92,6 +92,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
+<br/><br/>
+<p>
 
 ## 👨‍💻 Expert
 
@@ -120,10 +122,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     </a>
     &nbsp;|&nbsp;</p>
 </p>
-
 <br/><br/>
 <p>
 
 ---
 
-⌨️ por [Felipe Malaquias](https://github.com/felipe-malaquias)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
