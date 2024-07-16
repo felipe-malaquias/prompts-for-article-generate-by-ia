@@ -73,7 +73,7 @@ Leonardo.ai：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
-## 👨‍💻 Expert
+## 👨‍💻 Aluno
 
 <p>
     <img 
